@@ -92,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Likithaharshini/apsleetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Likithaharshini/apsleetcode/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Likithaharshini/apsleetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Likithaharshini/apsleetcode/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,4 +106,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Likithaharshini/apsleetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Likithaharshini/apsleetcode/tree/master/0113-path-sum-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Likithaharshini/apsleetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
