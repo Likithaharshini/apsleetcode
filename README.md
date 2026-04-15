@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Likithaharshini/apsleetcode/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Likithaharshini/apsleetcode/tree/master/0257-binary-tree-paths) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Likithaharshini/apsleetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
@@ -93,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Likithaharshini/apsleetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Likithaharshini/apsleetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Likithaharshini/apsleetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Likithaharshini/apsleetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Likithaharshini/apsleetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Likithaharshini/apsleetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -107,8 +110,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Likithaharshini/apsleetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Likithaharshini/apsleetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Likithaharshini/apsleetcode/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Likithaharshini/apsleetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Likithaharshini/apsleetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
